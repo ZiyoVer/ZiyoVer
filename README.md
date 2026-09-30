@@ -6,29 +6,29 @@
 
 **AI/ML Engineer · Speech & Language AI · Applied Machine Learning**
 
-I work on speech recognition, language-model applications, and the engineering that connects models to usable software. My projects span Uzbek ASR experiments, speech-data review workflows, real-time audio systems, and developer tools for AI coding assistants.
+I build speech and language applications, with a focus on Uzbek ASR, dataset quality, real-time audio, and tools for AI coding assistants. My work connects model experiments with the interfaces and data systems needed to use them.
 
-[Email](mailto:uktamziyodullayev189@gmail.com) · [Explore my repositories](https://github.com/ZiyoVer?tab=repositories)
+[Email](mailto:uktamziyodullayev189@gmail.com) · [Projects](https://github.com/ZiyoVer?tab=repositories)
 
 ## Selected work
 
-| Project | What I built | Engineering focus |
+| Project | What it does | Engineering focus |
 | :--- | :--- | :--- |
-| **[Uzbek Whisper Fine-Tuning](https://github.com/ZiyoVer/FIne-tuning-)** | An experimental training pipeline for Uzbek speech recognition, with speaker balancing and WER/CER utilities. | PyTorch · Transformers · ASR evaluation |
-| **[projmap](https://github.com/ZiyoVer/projmap)** | A Python CLI and MCP server that exposes compact codebase maps, symbol lookup, and persistent project notes to coding assistants. | AST parsing · Incremental indexing · MCP |
-| **[Speech Dataset Review](https://github.com/ZiyoVer/for-CV)** | A Telegram and web workflow for reviewing audio, editing transcripts, and organizing accepted samples in object storage. | Data quality · PostgreSQL · S3 · TypeScript |
-| **[Live Translator](https://github.com/ZiyoVer/trk1)** | A desktop voice-translation application with configurable audio routing, live captions, and streaming playback. | Python · Streaming audio · Desktop integration |
+| **[projmap](https://github.com/ZiyoVer/projmap)** | Compact codebase maps, symbol lookup, and persistent project notes for coding assistants. | Python · AST parsing · MCP |
+| **[Uzbek Whisper Fine-Tuning](https://github.com/ZiyoVer/uzbek-whisper-finetuning)** | Experimental ASR training with speaker balancing, text preprocessing, and WER/CER evaluation. | PyTorch · Transformers · Uzbek ASR |
+| **[Speech Dataset Review](https://github.com/ZiyoVer/speech-dataset-review)** | Telegram and web tools for reviewing recordings, correcting transcripts, and organizing accepted samples. | TypeScript · PostgreSQL · S3 |
+| **[Live Translator](https://github.com/ZiyoVer/trk1)** | A desktop application for streaming voice translation, audio routing, and live captions. | Python · WebSockets · Audio systems |
+| **[DTMMax](https://github.com/ZiyoVer/dtmmax)** | An Uzbek exam-preparation platform with AI chat, tests, flashcards, and teacher workflows. | React · Express · Prisma · LLM APIs |
+| **[AI Call Center](https://github.com/ZiyoVer/ai-call-center)** | A hackathon prototype combining an operator copilot, a voice agent, and a demo CRM. | Gemini Live · Twilio · TypeScript |
 
-More experiments: [Uzbek STT utilities](https://github.com/ZiyoVer/uzbek-stt) · [AI Call Center prototype](https://github.com/ZiyoVer/hackathon)
+Additional resources: [Uzbek STT utilities](https://github.com/ZiyoVer/uzbek-stt) · [Live Translator downloads](https://ziyover.github.io/trk1-site/)
 
 ## Technical focus
 
-- **Speech & ML:** Whisper, PyTorch, Hugging Face Transformers, audio preprocessing, speaker balancing, and word/character error analysis.
-- **Language-model systems:** LLM API integration, retrieval-augmented applications, real-time voice interfaces, and the Model Context Protocol.
-- **Data & software engineering:** Python, TypeScript, PostgreSQL, S3-compatible storage, REST APIs, WebSockets, and Telegram bots.
+- **Speech and ML:** Whisper, PyTorch, Hugging Face Transformers, audio preprocessing, and recognition error analysis.
+- **Language-model applications:** retrieval-augmented workflows, streaming voice interfaces, and MCP integrations.
+- **Product engineering:** Python, TypeScript, React, PostgreSQL, object storage, REST APIs, and WebSockets.
 
-## What interests me
+I am interested in making speech and language technology more useful for Uzbek-speaking users, improving datasets, and turning ML experiments into usable software.
 
-Making speech and language technology more useful for Uzbek-speaking users, building better datasets, and carrying ML experiments through to applications people can use.
-
-For engineering opportunities or technical collaboration, reach me at **[uktamziyodullayev189@gmail.com](mailto:uktamziyodullayev189@gmail.com)**.
+For engineering opportunities or technical collaboration: **[uktamziyodullayev189@gmail.com](mailto:uktamziyodullayev189@gmail.com)**.
