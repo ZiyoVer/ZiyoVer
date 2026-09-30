@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.png" alt="O'ktam Ziyodullayev — AI/ML Engineer. Speech, language, and applied machine learning." width="100%" />
+  <img src="assets/profile-banner.jpg" alt="O'ktam Ziyodullayev — AI/ML Engineer. Speech, language, and applied machine learning." width="100%" />
 </p>
 
 # O'ktam Ziyodullayev
